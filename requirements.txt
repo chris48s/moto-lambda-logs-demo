@@ -1,4 +1,4 @@
-boto3
+boto3==1.35.51
 
-moto[awslambda]
-pytest
+moto[awslambda]==5.0.18
+pytest==8.3.3
